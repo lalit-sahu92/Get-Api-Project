@@ -132,6 +132,6 @@ import axios from 'axios'
         background-color: #efefef;
     }
     .form-control{
-        margin-bottom: 15px;
+        margin-bottom: 20px;
     }
 </style>
